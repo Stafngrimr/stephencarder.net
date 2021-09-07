@@ -1,5 +1,7 @@
 /* We're not messing around with a lot of different css files, we're only
-going to do this the once for this website */
+going to do this the once for this website
+
+background-color: #0f4d53; teal*/
 
 body {
     background-image:url("img/bg.jpg");
@@ -21,7 +23,7 @@ html, body {
 div.flex_container {
     display: flex;
     flex-flow: column;
-    justify-content: center ;
+    justify-content: center;
     align-items: center;
 }
 
@@ -33,11 +35,15 @@ div.text_container {
     border-radius: 20px;
 }
 
+
 p {
   text-indent: 2em;
 }
 
 .menu {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
     margin-top: 15%;
     margin-left: 8%;
     position: fixed;
