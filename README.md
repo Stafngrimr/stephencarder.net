@@ -1,4 +1,3 @@
 # stephencarder.net
 
-Journal site for CS50/Odin Project learning stuffs
-  by Stafngrimr
+Dashboard? Journal? This is a website that I'm not even sure what I'm going to be using it for anymore...
